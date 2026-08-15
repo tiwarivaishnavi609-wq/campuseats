@@ -1,8 +1,5 @@
 # CampusEats
 
-CampusEats is a campus food ordering and management system.
+CampusEats is a food ordering and management system for a college campus.
 
-This repository contains:
-- HTTP request logs
-- Network analysis
-- Project brief
+The system allows students to browse food menus, place orders, make payments, and track their orders.
