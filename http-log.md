@@ -56,6 +56,4 @@ Status Code: 404 Not Found
 Content-Type: application/json
 
 Meaning:
-Requested resource does not exist.# HTTP Log
-
-This file contains HTTP request and response records.
+Requested resource does not exist.
